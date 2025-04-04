@@ -1,0 +1,9 @@
+# Ignore nested repositories
+Dorothy-Repository/
+
+# Common ignores
+node_modules/
+.DS_Store
+*.log
+*.tmp
+.env
